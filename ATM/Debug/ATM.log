@@ -1,3 +1,0 @@
-﻿  ATM.cpp
-F:\Visual Studio Projects\Bank_ATM\ATM\ATM.cpp(35,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-  ATM.vcxproj -> F:\Visual Studio Projects\Bank_ATM\Debug\ATM.exe
